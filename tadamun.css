@@ -5,6 +5,7 @@ height: 100vh;
     background-size: cover;
    background-repeat: no-repeat;
    background-position: center;
+   overflow: hidden;
 
 }
 
@@ -23,6 +24,7 @@ nav ul{
     position: relative;
     left: 300px;
     top: 40px;
+    
   
 }
 
